@@ -21,13 +21,13 @@ amigo-secreto/
 ├─ style.css
 ├─ script.js
 └─ docs/
-   ├─ imagem-adicionar-nomes.png
-   └─ imagem-sorteio.png
+   ├─ exemplo1.png
+   └─ exemplo2.png
 ```
 
 ## Capturas de tela
-![Adicionar nomes](docs/imagem-adicionar-nomes.png)
-![Resultado do sorteio](docs/imagem-sorteio.png)
+![Adicionar nomes](docs/exemplo1.png)
+![Resultado do sorteio](docs/exemplo2.png)
 
 ---
 
