@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Amigo Secreto</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>🎁 Amigo Secreto</h1>
+
+    <section class="card">
+      <div class="input-row">
+        <input id="nomeInput" type="text" placeholder="Digite um nome" />
+        <button id="adicionarBtn">Adicionar</button>
+      </div>
+      <p class="hint">Pressione Enter para adicionar.</p>
+      <ul id="listaParticipantes"></ul>
+
+      <div class="acoes">
+        <button id="sortearBtn">Sortear</button>
+        <button id="limparBtn">Limpar</button>
+      </div>
+    </section>
+
+    <section class="card resultado" id="resultadoCard" aria-live="polite" hidden>
+      <h2>Resultado do Sorteio</h2>
+      <ol id="resultadoList"></ol>
+      <button id="copiarBtn">Copiar resultado</button>
+    </section>
+
+    <footer class="footer">
+     João Pedro - Projeto Alura!
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
