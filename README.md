@@ -26,8 +26,8 @@ amigo-secreto/
 ```
 
 ## Capturas de tela
-![Adicionar nomes](docs/exemplo1.png)
-![Resultado do sorteio](docs/exemplo2.png)
+![exemplo1](docs/exemplo1.png)
+![exemplo2](docs/exemplo2.png)
 
 ---
 
